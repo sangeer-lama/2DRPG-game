@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: dcd0a9a7b6bbaab4b890f8fb109efbb5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
+  missingFiles: []
+  errors:
+  - Unknown error encountered. Please report as bug. Stack track is in the console
+    output.
+  - Failed to add object of type `SuperTileset`. Check that the definition is in
+    a file of the same name and that it compiles properly.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 11
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 0
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
